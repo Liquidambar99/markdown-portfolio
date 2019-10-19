@@ -1,4 +1,1 @@
--_**Research Skills**_
-  -_Ecology_
-  -_Social Sciences_
-  -_Spatial Analysis_
+-_**Research Skills**_: _Ecology_, _Quantitative Social Sciences_, _Spatial Analysis_
