@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+-_**Research Skills**_
+  -_Ecology_
+  -_Social Sciences_
+  -_Spatial Analysis_
