@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Research
+ - Forest Ecology
+ - Conservation and Development
+ - Invasive species
